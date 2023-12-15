@@ -4,6 +4,6 @@ public class SomeClass {
         this.num = num;
     }
     public void hello() {
-        System.out.println("hello what's up");
+        System.out.println("hello\nwhat's\nup!");
     }
 }
