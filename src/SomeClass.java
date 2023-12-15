@@ -6,7 +6,9 @@ public class SomeClass {
     public void hello() {
         System.out.println("hello\nwhat's\nup!");
     }
-
+    public void partner1Method() {
+        System.out.println("Partner 1's method");
+    }
     public void partner2Method() {
         System.out.println("yippee!");
     }
